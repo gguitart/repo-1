@@ -1,0 +1,33 @@
+h1 {padding: 40px;
+    margin: 0px 0px 0px 0px;
+    background-color: black;
+    color: white; 
+    text-align: center; 
+    font-family: Georgia
+    }
+
+#your-name {background-color: white; 
+    color: black;
+    float: left;
+    font-family: Georgia
+}
+
+#contact-info {background-color: white; 
+    color: black;
+    float: right;
+    font-family: Georgia
+}
+
+ul {float: right;
+    font-family: Georgia
+}
+
+#image {float: left
+
+}
+
+#bio {float: left;
+    width: 60%
+
+}
+
